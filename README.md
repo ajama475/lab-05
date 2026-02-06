@@ -3,7 +3,7 @@
 ## Student Details
 
 - **Full Name:** `Ahmed Jama`
-- **CCID:** `<aajama>`
+- **CCID:** `aajama`
 
 ## References and Resources
 
